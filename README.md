@@ -1,6 +1,6 @@
-# blockanalyst
+# BlockAnalyst
 
-A package for generating urban block geometry and calculate block-level morphological metrics.
+A package for generating urban block geometry and calculate block-level morphological metrics for urban studies.
 
 ## Installation
 
