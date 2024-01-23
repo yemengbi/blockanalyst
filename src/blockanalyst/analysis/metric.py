@@ -1,12 +1,7 @@
 import geopandas as gpd
-import momepy
 import gemgis as gg
 import numpy as np
-import pygeos
 import copy
-import alphashape
-import cartopy.crs as ccrs
-import osmnx as ox
 
 from sklearn.metrics.pairwise import cosine_similarity
 from varname import argname

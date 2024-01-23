@@ -8,8 +8,18 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
+numpy = "*"
+pandas = "*"
+geopandas = "*"
+shapely = "*"
+pygeos = "*"
+gemgis = "*"
+osmnx = "*"
+momepy = "*"
+sklearn = "*"
 
 [tool.poetry.dev-dependencies]
+pytest = "*"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
